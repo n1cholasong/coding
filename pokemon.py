@@ -1,4 +1,4 @@
-#Pokemon - alpha 0.3.0
+#Pokemon by Nicholas Ong- alpha 0.3.0
 import time
 from random import randint
 
