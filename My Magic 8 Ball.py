@@ -1,4 +1,4 @@
-#My Magic 8 Ball
+#My Magic 8 Ball By Nicholas Ong
 
 import time
 
