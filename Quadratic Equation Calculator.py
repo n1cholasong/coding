@@ -1,3 +1,4 @@
+#Quadratic Equation Calculator by Nicholas Ong
 import math
 print('Quadratic Equation Calculator')
 
@@ -26,6 +27,3 @@ for x in range(999):
 
     print('')
     print('=============== NEXT QUESTION ===============')
-    
-   
-
