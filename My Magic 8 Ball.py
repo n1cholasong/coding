@@ -1,4 +1,4 @@
-#My Magic 8 Ball
+#My Magic 8 Ball 
 
 import time
 
@@ -35,4 +35,3 @@ choice = randint(0,7)
 print(answer[choice])
 
 input('\n\nPress the RETURN key to finish.')
-
