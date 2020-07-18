@@ -24,8 +24,6 @@ for x in range(999):
         print('=', sqrt)
         print('\nx = %s\nx = %s' %(sol1, sol2))
 
-    
-
     print('')
     print('=============== NEXT QUESTION ===============')
     
