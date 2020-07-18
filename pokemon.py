@@ -162,15 +162,3 @@ while game:
         game = False
         
 print('Game Over!')
-
-            
-           
-        
-        
-    
-
-
-       
-
-                   
-    
